@@ -1,0 +1,21 @@
+id_cliente,nombre_cliente,tipo_cliente,telefono
+1,Diego Zuluaga,Profesor,3001112233.0
+2,Ana Gomez,estudiante,Sin telefono
+3,Carlos Ruiz,PROFESOR,3109998877.0
+4,Maria Lopez,estudiante,3204445566.0
+5,Luis Perez,Externo,Sin telefono
+6,Sofia Ramirez,ESTUDIANTE,3112223344.0
+7,Juan Camilo,estudiante,Sin telefono
+8,Andres Felipe,Externo,3156667788.0
+9,Valeria Morales,profesor,3009991122.0
+10,Isabella Carranza,ESTUDIANTE,Sin telefono
+11,Matias Mondragon,estudiante,3105556677.0
+12,Arianne Amorocho,externo,3201112233.0
+13,Mariana Peña,Estudiante,Sin telefono
+14,Nicolas Torres,PROFESOR,3114445566.0
+15,Juan Leyton,estudiante,3007778899.0
+16,Cristian Bermudez,externo,Sin telefono
+17,Paula Arciniegas,ESTUDIANTE,3152223344.0
+18,Samuel Lozano,estudiante,3206667788.0
+19,Gabriela Ruiz,profesor,Sin telefono
+20,Lucas Blanco,Externo,3103334455.0
